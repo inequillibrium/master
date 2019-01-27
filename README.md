@@ -1,6 +1,10 @@
-# master
+# Master 
+![Dockerhub](https://img.shields.io/docker/pulls/bennetphp/inequillibrium-master.svg?style=flat-square)
+![License](https://img.shields.io/github/license/inequillibrium/master.svg?style=flat-square)
+![Issues](https://img.shields.io/github/issues/inequillibrium/master.svg?style=flat-square)
+
 Load Balancer for TS3AudioBot. Cluster the Bot over multiple hosts with no performance decrease.
-![Load Balancer Image](imgs/load.png)
+![Load Balancer Image](https://raw.githubusercontent.com/inequillibrium/master/master/imgs/load.png)
 ## the idea
 The main Idea behind this project is to cluster the Bot, so you have redundancy and more capacity without developing your own solution.
 
